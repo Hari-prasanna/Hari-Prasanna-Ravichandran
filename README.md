@@ -29,12 +29,11 @@ Outside the terminal, I'm usually mapping out solution architectures, cooking, r
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hari-prasanna&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hari-prasanna&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hari-prasanna&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hari-prasanna&theme=dark&layout=compact&hide_border=true" alt="Top Languages" height="195" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-prasanna&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-prasanna&theme=dark&hide_border=true" alt="GitHub Streak" height="195" />
 </div>
